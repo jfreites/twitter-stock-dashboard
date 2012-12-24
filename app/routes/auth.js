@@ -1,4 +1,3 @@
-
 /*
  * GET OAuth connect.
  */
@@ -9,8 +8,8 @@ var sys = require('sys');
 var oa = new OAuth(
     "https://api.twitter.com/oauth/request_token",
     "https://api.twitter.com/oauth/access_token",
-	"sXkbR9pU3sVCkMDpvTgsnQ",
-	"ZMhQCz06f8hOFOCC6BOO5XyyYOyfF6rCNxi4TnvDY4",
+	"Twitter-Consumer-Key",
+	"Twitter-Consumer-Secret",
 	"1.0",
 	"http://twitter-stock-dashboard.jonathanfreites.c9.io/auth/callback",
 	"HMAC-SHA1"
