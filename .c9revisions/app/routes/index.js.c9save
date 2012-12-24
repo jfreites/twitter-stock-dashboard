@@ -1,0 +1,4 @@
+{"ts":1356379811254,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"\n/*\n * GET home page.\n */\n\nexports.index = function(req, res){\n  res.render('index', { title: 'Express' });\n};"]],"start1":0,"start2":0,"length1":0,"length2":110}]],"length":110}
+{"contributors":[],"silentsave":false,"ts":1356381527462,"patch":[[{"diffs":[[0,"e: '"],[1,"Tw#\"% Stock Dashboard', subtitle: 'Test App written with Node.js + "],[0,"Express"],[1,".js"],[0,"' })"]],"start1":91,"start2":91,"length1":15,"length2":85}]],"length":180,"saved":false}
+{"ts":1356381585233,"patch":[[{"diffs":[[0," 'Tw"],[-1,"#\"%"],[1,"itter"],[0," Sto"]],"start1":93,"start2":93,"length1":11,"length2":13}]],"length":182,"saved":false}
+{"ts":1356381607406,"patch":[[{"diffs":[[0,"ress.js'"],[1,","],[0," });\n};"]],"start1":167,"start2":167,"length1":15,"length2":16}]],"length":183,"saved":false}

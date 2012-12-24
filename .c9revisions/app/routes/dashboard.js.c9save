@@ -1,0 +1,4 @@
+{"ts":1356380000686,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1356383956551,"patch":[[{"diffs":[[1,"\n/*\n * GET dashboard page.\n */\n\nexports.index = function(req, res){\n  res.render('dashboard', { title: 'Twitter Stock Dashboard', });\n};"]],"start1":0,"start2":0,"length1":0,"length2":136}]],"length":136,"saved":false}
+{"ts":1356383969202,"patch":[[{"diffs":[[0,"rts."],[-1,"index"],[1,"dashboard"],[0," = f"]],"start1":36,"start2":36,"length1":13,"length2":17}]],"length":140,"saved":false}
+{"ts":1356384259863,"patch":[[{"diffs":[[0,"exports."],[-1,"dashboard"],[1,"index"],[0," = funct"]],"start1":32,"start2":32,"length1":25,"length2":21}]],"length":136,"saved":false}
